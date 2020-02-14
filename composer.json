@@ -1,5 +1,5 @@
 {
-    "name": "cimrie/odm",
+    "name": "azam/odm",
     "type": "library",
     "description": "Doctrine MongoDB ODM integration with Laravel. Aim to be interoperable with other frameworks.",
     "keywords": ["doctrine", "odm", "mongodb", "laravel"],
