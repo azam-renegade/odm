@@ -1,4 +1,4 @@
-# cimrie/odm
+# azam/odm
 
 This is a package to help integrate The Doctrine MongoDb ODM into any framework of your choice.
 The only caveat at the moment is that by defining a cache provider, you are declaring that you use
